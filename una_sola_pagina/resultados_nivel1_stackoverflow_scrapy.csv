@@ -1,0 +1,69 @@
+descripcion,id,pregunta
+"
+                Replicate the Example from Framer Motion documentation.
+// App.tsx
+
+export default function App() {
+  const [x, setX] = useState(0);
+  const [y, setY] = useState(0);
+  const [rotate, setRotate] = ...
+            ",[0],Framer Motion delayed from version 10.0.0
+"
+                I am trying to fit multilevel models using tidymodels. When I fit individual models, I do not have issues but when I combine them in workflow set, I get these errors.
+I'm hoping someone might be able ...
+            ",[1],"Error in eval(predvars, data, env): object 's_id' not found"
+"
+                I just have a simple question: How can I add a subdomain to my django url, like: forums.websitename.com or account.websitename.com?
+Since my URLS were starting to get messy, I would like to add ...
+            ",[2],How to add a subdomain to a django URL?
+"
+                As the title says, my class is returning garbage strings and I can't figure out where the problem is.  Note that this code is C with Classes, so the code has some C++ features, but specifically no ...
+            ",[3],class returning garbage strings in C with Classes (pre-C++98 spec)
+"
+                I am working on webrtc to create video call between two users;
+i am using regular javascript, below is some of my js code placed in script tag
+        let socket;
+        let localStream;
+        let ...
+            ",[4],"webrtc, video remote stream on iphone appears as black (doesn't work)"
+"
+                Trying to apply css to the first element in multiple divs with the same class. In the example below, it works in the first div, but not the second one. What's wrong with this picture?
+<script>
+$(...
+            ",[5],Getting the first element in multiple divs jQuery
+"
+                I'm trying to export this donut setup as a fbx but geometry node changes don't export and if i try to apply the modifier it just does nothing. I found another person asking the same question but there ...
+            ",[6],How can I convert geometry node output to mesh/objects or export geometry node output in a .fbx file?
+"
+                Consider the below code.
+const foo = { one: """", two: """" };
+
+function func<T extends typeof foo>(obj: T) {
+  const copy = {};
+  for (const key in obj) {
+    copy[key] = Math....
+            ",[7],How to assign values to object copy in Typescript
+"
+                I have this following code that basically renders partials. However I was trying to find a way to prevent polluting $templatePath variable into the template (the variable is currently accessible from ...
+            ",[8],PHP - absolute prevention of content pollution in output buffer
+"
+                i was working with spring 2.x.x without any problem until today. Now im trying to create a rest API with spring security enabled (spring boot 3.3.1) and i want to use HttpBasic authentication. So i ...
+            ",[9],Spring Security throwing: InsufficientAuthenticationException: Full authentication is required to access this resource
+"
+                I have been using my AWS account for more than 4 months. Now, I need to create a Lambda function with provisioned concurrency. However, it gives the following error:
+```The maximum allowed provisioned ...
+            ",[10],Lambda Provisioned Concurrency showing 0 available. But I'm not using any
+"
+                I send a POST command against an API with Invoke-RestMethod. I expect the return value to be a download link that I want to process further. However, this URL is stored in a property whose name ...
+            ",[11],Powershell: How to process Result when the Result changes with every query?
+"
+                I am making a platformer in pygame and I have a wall texture I like, but when i use it on differently sized walls it just stretches the image (the image is 4 rows of bricks). I want it to show the ...
+            ",[12],"have an image wrap on a surface, making different size surfaces have the an image on it with the same size, but with one having more"
+"
+                I have a parent component in my React application that conditionally renders different child components based on user authentication state. Here's a simplified snippet of my parent component:
+let ...
+            ",[13],How to Add Conditional Navbar Rendering in React?
+"
+                Is it possible to obtain website analysis data using VBA code and Excel?
+For example, I would like to know how often a certain public site was visited in a certain period of time and, if documents are ...
+            ",[14],Is it possible to get analytics with vba from a public website?
